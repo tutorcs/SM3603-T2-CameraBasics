@@ -1,0 +1,40 @@
+https://tutorcs.com
+WeChat: cstutorcs
+QQ: 749389476
+Email: tutorcs@163.com
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\bin\Debug\T2_CameraBasics.exe.config
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\bin\Debug\T2_CameraBasics.exe
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\bin\Debug\T2_CameraBasics.pdb
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\obj\Debug\T2_CameraBasics.csprojAssemblyReference.cache
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\obj\Debug\MainWindow.g.cs
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\obj\Debug\App.g.cs
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\obj\Debug\T2_CameraBasics_MarkupCompile.cache
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\obj\Debug\T2_CameraBasics_MarkupCompile.lref
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\obj\Debug\MainWindow.baml
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\obj\Debug\T2_CameraBasics.g.resources
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\obj\Debug\T2_CameraBasics.Properties.Resources.resources
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\obj\Debug\T2_CameraBasics.csproj.GenerateResource.cache
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\obj\Debug\T2_CameraBasics.csproj.CoreCompileInputs.cache
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\obj\Debug\T2_CameraBasics.exe
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\obj\Debug\T2_CameraBasics.pdb
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\bin\Debug\Microsoft.Kinect.dll
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\bin\Debug\Microsoft.Kinect.xml
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\obj\Debug\T2_CameraBasics.csproj.CopyComplete
+d:\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\bin\Debug\T2_CameraBasics.exe.config
+d:\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\bin\Debug\T2_CameraBasics.exe
+d:\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\bin\Debug\T2_CameraBasics.pdb
+d:\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\bin\Debug\Microsoft.Kinect.dll
+d:\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\bin\Debug\Microsoft.Kinect.xml
+d:\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\obj\Debug\T2_CameraBasics.csprojAssemblyReference.cache
+d:\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\obj\Debug\MainWindow.g.cs
+d:\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\obj\Debug\App.g.cs
+d:\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\obj\Debug\T2_CameraBasics_MarkupCompile.cache
+d:\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\obj\Debug\T2_CameraBasics_MarkupCompile.lref
+d:\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\obj\Debug\MainWindow.baml
+d:\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\obj\Debug\T2_CameraBasics.g.resources
+d:\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\obj\Debug\T2_CameraBasics.Properties.Resources.resources
+d:\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\obj\Debug\T2_CameraBasics.csproj.GenerateResource.cache
+d:\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\obj\Debug\T2_CameraBasics.csproj.CoreCompileInputs.cache
+d:\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\obj\Debug\T2_CameraBasics.csproj.CopyComplete
+d:\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\obj\Debug\T2_CameraBasics.exe
+d:\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T2_CameraBasics\T2_CameraBasics\obj\Debug\T2_CameraBasics.pdb
